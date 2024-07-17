@@ -1,3 +1,5 @@
+#https://neps.academy/br/exercise/2316
+
 n = int(input())
 r = int(input())
 p = int(input())
