@@ -1,3 +1,5 @@
+#https://neps.academy/br/exercise/20
+
 a = int(input)
 b = int(input)
 c = int(input)

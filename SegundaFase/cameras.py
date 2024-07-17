@@ -46,18 +46,15 @@ def pode_passar(sala, col, lin):
     
     return "N"
 
-def main():
-    col, lin, cam = map(int, input().split())
-    sala = [["O" for _ in range(col)] for _ in range(lin)]
-    cameras = [input().split() for _ in range(cam)]
-    cameras = [(int(c), int(l), d) for c, l, d in cameras]
-    
-    marcar_vigilancia(sala, cameras, col, lin)
-    
-    for row in sala:
-        print(' '.join(row))  # Printando a sala para visualização
-    
-    print(pode_passar(sala, col, lin))
 
-if __name__ == "__main__":
-    main()
+col, lin, cam = map(int, input().split())
+sala = [["O" for _ in range(col)] for _ in range(lin)]
+cameras = [input().split() for _ in range(cam)]
+cameras = [(int(c), int(l), d) for c, l, d in cameras]
+
+marcar_vigilancia(sala, cameras, col, lin)
+
+print(pode_passar(sala, col, lin))
+
+
+
