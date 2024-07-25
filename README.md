@@ -50,3 +50,8 @@
 - [] 2008 - Segunda Fase
 - [] 2007 - Segunda Fase
 - [] 2006 - Segunda Fase
+
+### Questões
+#### OBI 2023
+[prefixo](SegundaFase\obi_2023\prefixo.py)
+[grupos de trabalho](SegundaFase\obi_2023\GruposDeTrabalho.py)
