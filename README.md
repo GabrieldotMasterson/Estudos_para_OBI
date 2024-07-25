@@ -55,3 +55,13 @@
 #### OBI 2023
 [prefixo](SegundaFase/obi_2023/prefixo.py)
 [grupos de trabalho](SegundaFase/obi_2023/GruposDeTrabalho.py)
+
+#### Neps aleatórios
+[analise se texto](NepsAleátorios/analiseDeTexto.py)
+[canadense Eh](NepsAleátorios/canadenseEh.py)
+[como fica o nome](NepsAleátorios/comoFicaONome.py)
+[Huaauhahhuahau](NepsAleátorios/Huaauhahhuahau.py)
+[OlaCodCad!](NepsAleátorios/OlaCodCad!.py)
+[pontuacao por atividade](NepsAleátorios/pontuacaoPorAtividade.py)
+[senha2018](NepsAleátorios/senha2018.py)
+[todos os divisores](NepsAleátorios/todosOsDivisores.py)
