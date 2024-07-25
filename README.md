@@ -53,5 +53,5 @@
 
 ### Questões
 #### OBI 2023
-[prefixo](SegundaFase\obi_2023\prefixo.py)
-[grupos de trabalho](SegundaFase\obi_2023\GruposDeTrabalho.py)
+[prefixo](SegundaFase/obi_2023/prefixo.py)
+[grupos de trabalho](SegundaFase/obi_2023/GruposDeTrabalho.py)
