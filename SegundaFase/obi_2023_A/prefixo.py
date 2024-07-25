@@ -1,3 +1,5 @@
+#https://neps.academy/br/exercise/2437
+
 n = int(input())
 p1 = input()
 m = int(input())
