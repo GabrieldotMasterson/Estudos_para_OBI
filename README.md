@@ -53,9 +53,9 @@
 
 ### Questões
 #### OBI 2023
-[prefixo](SegundaFase/obi_2023/prefixo.py)
-[grupos de trabalho](SegundaFase/obi_2023/GruposDeTrabalho.py)
-[intervalo distinto](SegundaFase/obi_2023/intervaloDistinto.py)
+[prefixo](SegundaFase/obi_2023_A/prefixo.py)
+[grupos de trabalho](SegundaFase/obi_2023_A/GruposDeTrabalho.py)
+[intervalo distinto](SegundaFase/obi_2023_A/intervaloDistinto.py)
 
 #### OBI 2013
 [Troco](SegundaFase/obi_2013/Troco.py)

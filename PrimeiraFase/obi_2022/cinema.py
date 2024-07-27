@@ -3,6 +3,7 @@ até 17 anos 15
 18 a 59 anos 30
 60 anos ou mais 20
 '''
+#https://neps.academy/br/exercise/2066
 
 i1 = int(input())
 i2 = int(input())
