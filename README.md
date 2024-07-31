@@ -2,33 +2,32 @@
  Lista de questões resolvidas (ou não) durante o estudo para a prova da olimpiada brasileira de informatica
 
 ### Lista de estudos (indicado pelo site do noic)
-- [x] Complexidade
-- [x] Busca binária
-- [] Algoritmo Guloso
-- [] Soma de Prefixo
-- [] Uma Breve História de Grafos
-- [] Busca em Grafos
-- [] Two pointers
-
-- [] Menor Caminho
-- [] Bitmask
-- [] Introdução à Programação Dinâmica
-- [] Problema da Mochila
-- [] Introdução a Árvores
-- [] Dijkstra Com Vértices Auxiliares
-- [] Binary Lifting
-- [] LCA (Menor Ancestral Comum)
-- [] Soma Máxima em Intervalo
-- [] Binary Indexed Tree (BIT)
-- [] Union Find
-- [] MST (Árvore Geradora Mínima)
-- [] Congruência
-- [] Teste de Primalidade
-- [] Diâmetros e Centros
-- [] Sparse Table
-- [] Crivo de Erastótales
-- [] Ordenação Topológica
-- [] Maior Subsequencia Crescente (LIS)
+- [x] [Complexidade](http://noic.com.br/informatica/curso-noic-de-informatica/aula-especial-complexidade/)
+- [x] [Busca binária](http://noic.com.br/informatica/curso-noic-de-informatica/techniques-01/)
+- [x] [Algoritmo Guloso](http://noic.com.br/informatica/curso-noic-de-informatica/techniques-02//)
+- [] [Soma de Prefixo](https://noic.com.br/materiais-informatica/curso/techniques-03/)
+- [] [Uma Breve História de Grafos](http://noic.com.br/informatica/curso-noic-de-informatica/graphs-01/)
+- [] [Busca em Grafos](http://noic.com.br/informatica/curso-noic-de-informatica/graphs-02/)
+- [] [Two pointers](http://noic.com.br/materiais-informatica/ideias/ideia-04)
+- [] [Menor Caminho](https://noic.com.br/materiais-informatica/curso/menor-caminho/)
+- [] [Bitmask](https://noic.com.br/materiais-informatica/ideias/bitmask/)
+- [] [Introdução à Programação Dinâmica](http://noic.com.br/informatica/curso-noic-de-informatica/dp-01/)
+- [] [Problema da Mochila](https://noic.com.br/materiais-informatica/curso/dp-02/)
+- [] [Introdução a Árvores](https://wp.me/P4fiBQ-fmU)
+- [] [Dijkstra Com Vértices Auxiliares](https://noic.com.br/materiais-informatica/curso/vertices-auxiliares/)
+- [] [Binary Lifting](https://noic.com.br/materiais-informatica/curso/binary-lifting/)
+- [] [LCA (Menor Ancestral Comum)](https://noic.com.br/materiais-informatica/curso/graphs-04/)
+- [] [Soma Máxima em Intervalo](https://noic.com.br/materiais-informatica/curso/soma-max-em-intervalo/)
+- [] [Binary Indexed Tree (BIT)](https://noic.com.br/materiais-informatica/curso/binary-indexed-tree/)
+- [] [Union Find](http://noic.com.br/materiais-informatica/curso/data-structures-02/)
+- [] [MST (Árvore Geradora Mínima)](https://noic.com.br/materiais-informatica/curso/arvore-geradora-minima/)
+- [] [Congruência](https://noic.com.br/materiais-informatica/curso/math-01/)
+- [] [Teste de Primalidade](https://noic.com.br/materiais-informatica/curso/math-02/)
+- [] [Diâmetros e Centros](https://noic.com.br/materiais-informatica/ideias/ideia-03/)
+- [] [Sparse Table](https://noic.com.br/materiais-informatica/ideias/ideia-08/)
+- [] [Crivo de Erastótales](https://noic.com.br/materiais-informatica/curso/math-03/)
+- [] [Ordenação Topológica](http://noic.com.br/informatica/curso-noic-de-informatica/graphs-06/)
+- [] [Maior Subsequencia Crescente (LIS)](https://noic.com.br/materiais-informatica/curso/lis/)
 
 ### Check list provas resolvidas (segunda fase +)
 - [] 2023 - Segunda Fase A
@@ -52,11 +51,25 @@
 - [] 2006 - Segunda Fase
 
 ### Questões
+### Primeira fase 
+#### OBI 2006
+[colheita de Caju](PrimeiraFase/obi_2006/ColheitadeCaju.py)
+
+#### OBI 2019
+[distancia entre amigos](PrimeiraFase/obi_2019/distanciaEntreAmigos.py)
+[idade Monica](PrimeiraFase/obi_2019/idadeMonica.py)
+
+#### OBI 2022
+[cinema](PrimeiraFase/obi_2022/cinema.py)
+[hotel](PrimeiraFase/obi_2022/hotel.py)
+[show](PrimeiraFase/obi_2022/show.py)
+
 #### OBI 2023
 [prefixo](SegundaFase/obi_2023_A/prefixo.py)
 [grupos de trabalho](SegundaFase/obi_2023_A/GruposDeTrabalho.py)
 [intervalo distinto](SegundaFase/obi_2023_A/intervaloDistinto.py)
 
+### Segunda fase
 #### OBI 2013
 [Troco](SegundaFase/obi_2013/Troco.py)
 
