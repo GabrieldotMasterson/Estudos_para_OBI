@@ -1,21 +1,22 @@
-#https://neps.academy/br/exercise/2438
+import sys
 
-n = int(input())
-valores = []
-for i in range(n):
-    valores.append(int(input()))
-
+n = int(sys.stdin.readline().strip()) 
+valores = sys.stdin.read().split()  
 
 intervalos = []
+nums = set()
 intervalo = 0
-nums = []
 
-for index in range(len(valores)):
-    if valores[index] not in nums:
+for val in valores:
+    if val not in nums:
         intervalo += 1
-        nums.append(valores[index])
+        nums.add(val)
     else:
         intervalos.append(intervalo)
-        intervalo = 0
+        nums = {val}
+        intervalo = 1
+
+
+intervalos.append(intervalo)
 
 print(max(intervalos))

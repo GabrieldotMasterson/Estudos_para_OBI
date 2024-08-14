@@ -30,9 +30,9 @@
 - [] [Maior Subsequencia Crescente (LIS)](https://noic.com.br/materiais-informatica/curso/lis/)
 
 ### Check list provas resolvidas (segunda fase +)
-- [] 2023 - Segunda Fase A
+- [x] 2023 - Segunda Fase A
 - [] 2023 - Segunda Fase B
-- [] 2022 - Segunda Fase
+- [x] 2022 - Segunda Fase
 - [] 2021 - Segunda Fase
 - [] 2020 - Segunda Fase
 - [] 2019 - Segunda Fase
@@ -74,11 +74,25 @@
 [Troco](SegundaFase/obi_2013/Troco.py)
 
 #### Neps aleatórios
-[analise se texto](NepsAleátorios/analiseDeTexto.py)
-[canadense Eh](NepsAleátorios/canadenseEh.py)
-[como fica o nome](NepsAleátorios/comoFicaONome.py)
-[Huaauhahhuahau](NepsAleátorios/Huaauhahhuahau.py)
-[OlaCodCad!](NepsAleátorios/OlaCodCad!.py)
-[pontuacao por atividade](NepsAleátorios/pontuacaoPorAtividade.py)
-[senha2018](NepsAleátorios/senha2018.py)
-[todos os divisores](NepsAleátorios/todosOsDivisores.py)
+[analise se texto](Aleátorios/analiseDeTexto.py)
+[canadense Eh](Aleátorios/canadenseEh.py)
+[como fica o nome](Aleátorios/comoFicaONome.py)
+[Huaauhahhuahau](Aleátorios/Huaauhahhuahau.py)
+[OlaCodCad!](Aleátorios/OlaCodCad!.py)
+[pontuacao por atividade](Aleátorios/pontuacaoPorAtividade.py)
+[senha2018](Aleátorios/senha2018.py)
+[todos os divisores](Aleátorios/todosOsDivisores.py)
+[Fibonacci](Aleátorios/Fibonacci.py)
+
+### Topicos
+#### Grafos 
+##### DSF (busca em profundidade)
+
+##### BSF (busca em largura)
+
+#### Programação dinamica
+[Fibonacci](Aleátorios/Fibonacci.py)
+
+#### Two pointers
+[Intervalo Distinto](Estudos_para_OBI/SegundaFase/obi_2023_A/intervaloDistinto.py)
+[Lista palíndroma](Estudos_para_OBI/SegundaFase/obi_2021/lista_palindrola.py)
