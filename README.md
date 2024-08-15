@@ -86,13 +86,17 @@
 
 ### Topicos
 #### Grafos 
-##### DSF (busca em profundidade)
+#### DSF (busca em profundidade)
 
-##### BSF (busca em largura)
+#### BSF (busca em largura)
+
+#### Flood fill
+[fissura perigosa](Estudos_para_OBI\PrimeiraFase\obi_2020\fissura.py)
 
 #### Programação dinamica
 [Fibonacci](Aleátorios/Fibonacci.py)
 
 #### Two pointers
 [Intervalo Distinto](Estudos_para_OBI/SegundaFase/obi_2023_A/intervaloDistinto.py)
+
 [Lista palíndroma](Estudos_para_OBI/SegundaFase/obi_2021/lista_palindrola.py)

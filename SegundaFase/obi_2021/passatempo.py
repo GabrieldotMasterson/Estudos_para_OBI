@@ -1,4 +1,6 @@
 #fonte: https://neps.academy/br/exercise/1658
+# Todo quebrado 
+# todo dodoi
 
 L, C = map(int,input().split())
 
