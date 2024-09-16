@@ -85,8 +85,10 @@
 [Fibonacci](Aleátorios/Fibonacci.py)
 
 ### Topicos
+em breve todos os codigos estarão organizados aqui...
 #### Grafos 
 #### DSF (busca em profundidade)
+[visita entre cidades](TerceiraFase/obi_2017/visita_entre_cidades.py)
 
 #### BSF (busca em largura)
 
@@ -100,3 +102,8 @@
 [Intervalo Distinto](Estudos_para_OBI/SegundaFase/obi_2023_A/intervaloDistinto.py)
 
 [Lista palíndroma](Estudos_para_OBI/SegundaFase/obi_2021/lista_palindrola.py)
+
+#### Básicos 
+#### matrizes
+[Gomoku](TerceiraFase/obi_2017/gomoku.py)
+[Quadrado mágico](PrimeiraFase/quadradoMagico_2022.py)
