@@ -82,7 +82,7 @@
 
 ### Terceira fase
 #### OBI 2007
-[Gomoku](TerceiraFase/obi_2017/gomoku.py).
+[Gomoku](TerceiraFase/obi_2017/gomoku.py)
 
 [visita entre cidades](TerceiraFase/obi_2017/visita_entre_cidades.py)
 
