@@ -57,32 +57,56 @@
 
 #### OBI 2019
 [distancia entre amigos](PrimeiraFase/obi_2019/distanciaEntreAmigos.py)
+
 [idade Monica](PrimeiraFase/obi_2019/idadeMonica.py)
 
 #### OBI 2022
 [cinema](PrimeiraFase/obi_2022/cinema.py)
+
 [hotel](PrimeiraFase/obi_2022/hotel.py)
+
 [show](PrimeiraFase/obi_2022/show.py)
+
 
 #### OBI 2023
 [prefixo](SegundaFase/obi_2023_A/prefixo.py)
+
 [grupos de trabalho](SegundaFase/obi_2023_A/GruposDeTrabalho.py)
+
 [intervalo distinto](SegundaFase/obi_2023_A/intervaloDistinto.py)
+
 
 ### Segunda fase
 #### OBI 2013
 [Troco](SegundaFase/obi_2013/Troco.py)
 
+### Terceira fase
+#### OBI 2007
+[Gomoku](TerceiraFase/obi_2017/gomoku.py).
+
+[visita entre cidades](TerceiraFase/obi_2017/visita_entre_cidades.py)
+
+[zip](TerceiraFase/obi_2017/zip.py)
+
 #### Neps aleatórios
 [analise se texto](Aleátorios/analiseDeTexto.py)
+
 [canadense Eh](Aleátorios/canadenseEh.py)
+
 [como fica o nome](Aleátorios/comoFicaONome.py)
+
 [Huaauhahhuahau](Aleátorios/Huaauhahhuahau.py)
+
 [OlaCodCad!](Aleátorios/OlaCodCad!.py)
+
 [pontuacao por atividade](Aleátorios/pontuacaoPorAtividade.py)
+
 [senha2018](Aleátorios/senha2018.py)
+
 [todos os divisores](Aleátorios/todosOsDivisores.py)
+
 [Fibonacci](Aleátorios/Fibonacci.py)
+
 
 ### Topicos
 em breve todos os codigos estarão organizados aqui...
@@ -106,4 +130,5 @@ em breve todos os codigos estarão organizados aqui...
 #### Básicos 
 #### matrizes
 [Gomoku](TerceiraFase/obi_2017/gomoku.py)
+
 [Quadrado mágico](PrimeiraFase/quadradoMagico_2022.py)
