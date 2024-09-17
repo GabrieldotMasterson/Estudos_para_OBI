@@ -132,3 +132,8 @@ em breve todos os codigos estarão organizados aqui...
 [Gomoku](TerceiraFase/obi_2017/gomoku.py)
 
 [Quadrado mágico](PrimeiraFase/quadradoMagico_2022.py)
+
+#### Condicionais
+[zip](TerceiraFase/obi_2017/zip.py)
+
+[batalha](TerceiraFase/obi_2018/batalha.py)
