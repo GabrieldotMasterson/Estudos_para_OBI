@@ -11,4 +11,4 @@ for i in range(quantidade_operacoes):
     cima[comeco:fim] = baixo[comeco:fim]
     baixo[comeco:fim] = crazy
 
-print(cima)
+print(" ".join(cima))
