@@ -17,14 +17,6 @@ Este repositório contém uma seleção de questões de programação utilizadas
 
 ### Questões por Categoria
 
-- **Algoritmos**: 
-  - [Questão 1 - Descrição](link-para-a-questão)
-  - [Questão 2 - Descrição](link-para-a-questão)
-
-- **Estruturas de Dados**: 
-  - [Questão 3 - Descrição](link-para-a-questão)
-  - [Questão 4 - Descrição](link-para-a-questão)
-
 - **Grafos**: 
     - **DSF (busca em profundidade)**: 
         - [visita entre cidades](TerceiraFase/obi_2017/visita_entre_cidades.py)
