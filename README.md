@@ -53,89 +53,69 @@ Este repositório contém uma seleção de questões de programação utilizadas
 
 - **Nível 1**:
   - **Fase 1**:
-        - **OBI 2006**:
-            - [colheita de Caju](PrimeiraFase/obi_2006/ColheitadeCaju.py)
+    - **OBI 2006**:
+      - [Colheita de Caju](PrimeiraFase/obi_2006/ColheitadeCaju.py)
 
-        - **OBI 2019**:
+    - **OBI 2019**:
+      - [Distância entre Amigos](PrimeiraFase/obi_2019/distanciaEntreAmigos.py)
+      - [Idade Monica](PrimeiraFase/obi_2019/idadeMonica.py)
+      
+    - **OBI 2020**:
+      - [Acelerador de Partículas](PrimeiraFase/obi_2020/aceleradorDeParticulas.py)
+      - [Bingo](PrimeiraFase/obi_2020/Bingo!.py)
+      - [Fissura](PrimeiraFase/obi_2020/fissura.py)
 
-            - [distancia entre amigos](PrimeiraFase/obi_2019/distanciaEntreAmigos.py)
-
-            - [idade Monica](PrimeiraFase/obi_2019/idadeMonica.py)
-
-        - **OBI 2020**:
-
-            - [acelerador De Particulas](PrimeiraFase/obi_2020/aceleradorDeParticulas.py)
-
-            - [Bingo](PrimeiraFase/obi_2020/Bingo!.py)
-
-            - [fissura](PrimeiraFase/obi_2020/fissura.py)
-            
-
-        - **OBI 2022**:
-            - [cinema](PrimeiraFase/obi_2022/cinema.py)
-
-            - [hotel](PrimeiraFase/obi_2022/hotel.py)
-            
-            - [show](PrimeiraFase/obi_2022/show.py)
+    - **OBI 2022**:
+      - [Cinema](PrimeiraFase/obi_2022/cinema.py)
+      - [Hotel](PrimeiraFase/obi_2022/hotel.py)
+      - [Show](PrimeiraFase/obi_2022/show.py)
 
   - **Fase 2**:
-        - **OBI 2009**:
-          - [olimpiadas](SegundaFase\obi_2009\olimpiadas.py)
+    - **OBI 2009**:
+      - [Olimpíadas](SegundaFase/obi_2009/olimpiadas.py)
 
-        - **OBI 2013**:
-          - [familias de troia](SegundaFase/obi_2013/familias_de_troia.py)
+    - **OBI 2013**:
+      - [Famílias de Tróia](SegundaFase/obi_2013/familias_de_troia.py)
+      - [Troco](SegundaFase/obi_2013/Troco.py)
 
-          - [Troco](SegundaFase/obi_2013/Troco.py)
+    - **OBI 2016**:
+      - [Medalhas](SegundaFase/obi_2016/medalhas.py)
 
-        - **OBI 2016**:
-          - [medalhas](SegundaFase/obi_2016/medalhas.py)
+    - **OBI 2017**:
+      - [Cartas](SegundaFase/obi_2017/cartas.py)
 
-        - **OBI 2017**:
-          - [cartas](SegundaFase/obi_2017/cartas.py)
+    - **OBI 2021 A**:
+      - [Dupla de Tênis](SegundaFase/obi_2021/duplaDeTenis.py)
+      - [Lista Palindrômica](SegundaFase/obi_2021/lista_palindrola.py)
+      - [Passatempo](SegundaFase/obi_2021/passatempo.py)
+      - [Retângulo](SegundaFase/obi_2021/Retangulo.py)
 
-        - **OBI 2021 A**:
-          - [dupla De Tenis](SegundaFase/obi_2021/duplaDeTenis.py)
+    - **OBI 2021 B**:
+      - [Cálculo Rápido](SegundaFase/obi_2021_B/Calculo_rapido.py)
 
-          - [lista palindrola](SegundaFase/obi_2021/lista_palindrola.py)
+    - **OBI 2022**:
+      - [Câmeras](SegundaFase/obi_2022/cameras.py)
+      - [Pirâmide](SegundaFase/obi_2022/piramide.py)
+      - [Tanque de Combustível](SegundaFase/obi_2022/Tanque_de_combustivel.py)
 
-          - [passatempo](SegundaFase/obi_2021/passatempo.py)
+    - **OBI 2023 A**:
+      - [Grupos de Trabalho](SegundaFase/obi_2023_A/GruposDeTrabalho.py)
+      - [Intervalo Distinto](SegundaFase/obi_2023_A/intervaloDistinto.py)
+      - [Prefixo](SegundaFase/obi_2023_A/prefixo.py)
 
-          - [Retangulo](SegundaFase/obi_2021/Retangulo.py)
-
-
-        - **OBI 2021 B**:
-          - [Calculo_rapido](SegundaFase/obi_2021_B/Calculo_rapido.py)
-
-        - **OBI 2022**:
-          - [cameras](SegundaFase/obi_2022/cameras.py)
-
-          - [piramide](SegundaFase/obi_2022/pitamide.py)
-
-          - [Tanque de combustivel](SegundaFase/obi_2022/Tanque_de_combustivel.py)
-
-        - **OBI 2023 A**:
-          - [Grupos De Trabalho](SegundaFase/obi_2023_A/GruposDeTrabalho.py)
-
-          - [intervalo Distinto](SegundaFase/obi_2023_A/intervaloDistinto.py)
-
-          - [prefixo](SegundaFase/obi_2023_A/prefixo.py)
-
-        - **OBI 2023 B**:
-          - [Brincadeira de Roda](SegundaFase/obi_2023_B/BrincadeiradeRoda.py)
+    - **OBI 2023 B**:
+      - [Brincadeira de Roda](SegundaFase/obi_2023_B/BrincadeiradeRoda.py)
 
   - **Fase 3**:
-        - **OBI 2017**:
-          - [bits](TerceiraFase/obi_2017/bits.py)
+    - **OBI 2017**:
+      - [Bits](TerceiraFase/obi_2017/bits.py)
+      - [Gomoku](TerceiraFase/obi_2017/gomoku.py)
+      - [Visita entre Cidades](TerceiraFase/obi_2017/visita_entre_cidades.py)
+      - [Zip](TerceiraFase/obi_2017/zip.py)
 
-          - [gomoku](TerceiraFase/obi_2017/gomoku.py)
+    - **OBI 2018**:
+    - **OBI 2023**:
 
-          - [visita entre cidades](TerceiraFase/obi_2017/visita_entre_cidades.py)
-
-          - [zip](TerceiraFase/obi_2017/zip.py)
-
-        - **OBI 2018**:
-
-        - **OBI 2023**:
     
 
 
