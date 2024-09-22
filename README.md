@@ -57,15 +57,19 @@ Este repositório contém uma seleção de questões de programação utilizadas
             - [colheita de Caju](PrimeiraFase/obi_2006/ColheitadeCaju.py)
 
         - **OBI 2019**:
+
             - [distancia entre amigos](PrimeiraFase/obi_2019/distanciaEntreAmigos.py)
 
             - [idade Monica](PrimeiraFase/obi_2019/idadeMonica.py)
+
         - **OBI 2020**:
+
             - [acelerador De Particulas](PrimeiraFase/obi_2020/aceleradorDeParticulas.py)
 
             - [Bingo](PrimeiraFase/obi_2020/Bingo!.py)
 
             - [fissura](PrimeiraFase/obi_2020/fissura.py)
+            
 
         - **OBI 2022**:
             - [cinema](PrimeiraFase/obi_2022/cinema.py)
