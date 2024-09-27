@@ -31,6 +31,11 @@ Este repositório contém uma seleção de questões de programação utilizadas
 
         - [Câmeras](SegundaFase/obi_2022/cameras.py)
 
+- **Árvores**:
+    - **Union find**:
+        - [Carro elétrico](TerceiraFase/obi_2022/carroeletrico.py)
+
+
 - **Flood fill**: 
     - [fissura perigosa](Estudos_para_OBI/PrimeiraFase/obi_2020/fissura.py)
 
@@ -133,10 +138,16 @@ Este repositório contém uma seleção de questões de programação utilizadas
       - [Batalha](TerceiraFase/obi_2018/batalha.py)
       - [Troca](TerceiraFase/obi_2018/troca.py)
 
+    - **OBI 2022**:
+      - [Restaurante de pizza](TerceiraFase/obi_2022/restaurante.py)
+      - [Carro elétrico](TerceiraFase/obi_2022/carroeletrico.py)
+
     - **OBI 2023**:
       - [Cabo de Guerra](TerceiraFase/obi_2023/cabo_de_guerra.py)
       - [Dominó Nlogônico](TerceiraFase/obi_2023/DominoNlogonicoTentativa2.py)
       - [Metrônibus](TerceiraFase/obi_2023/metroonibusgabarito.py)
+
+
 
     
 
