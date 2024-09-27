@@ -117,6 +117,9 @@ Este repositório contém uma seleção de questões de programação utilizadas
 
     - **OBI 2018**:
     - **OBI 2023**:
+      - [Cabo de Guerra](TerceiraFase\obi_2023\cabo_de_guerra.py)
+      - [Dominó Nlogônico](TerceiraFase\obi_2023\DominoNlogonicoTentativa2.py)
+      - [Metrônibus](TerceiraFase\obi_2023\metroonibusgabarito.py)
 
     
 
