@@ -146,23 +146,23 @@ Este repositório contém uma seleção de questões de programação utilizadas
 - ***Nível 3***:
 
 #### Neps aleatórios
-- [] [analise se texto](Aleátorios/analiseDeTexto.py)
+- [analise se texto](Aleátorios/analiseDeTexto.py)
 
-- [] [canadense Eh](Aleátorios/canadenseEh.py)
+- [canadense Eh](Aleátorios/canadenseEh.py)
 
-- [] [como fica o nome](Aleátorios/comoFicaONome.py)
+- [como fica o nome](Aleátorios/comoFicaONome.py)
 
-- [] [Huaauhahhuahau](Aleátorios/Huaauhahhuahau.py)
+- [Huaauhahhuahau](Aleátorios/Huaauhahhuahau.py)
 
-- [] [OlaCodCad!](Aleátorios/OlaCodCad!.py)
+- [OlaCodCad!](Aleátorios/OlaCodCad!.py)
 
-- [] [pontuacao por atividade](Aleátorios/pontuacaoPorAtividade.py)
+- [pontuacao por atividade](Aleátorios/pontuacaoPorAtividade.py)
 
-- [] [senha2018](Aleátorios/senha2018.py)
+- [senha2018](Aleátorios/senha2018.py)
 
-- [] [todos os divisores](Aleátorios/todosOsDivisores.py)
+- [todos os divisores](Aleátorios/todosOsDivisores.py)
 
-- [] [Fibonacci](Aleátorios/Fibonacci.py)
+- [Fibonacci](Aleátorios/Fibonacci.py)
 
 
 ### Lista de estudos (indicado pelo site do noic)
