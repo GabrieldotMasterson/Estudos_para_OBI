@@ -29,8 +29,10 @@ Este repositório contém uma seleção de questões de programação utilizadas
     - **BSF (busca em largura)**: 
         - [Metrônibus](TerceiraFase/obi_2023/metroonibusgabarito.py)
 
+        - [Câmeras](SegundaFase/obi_2022/cameras.py)
+
 - **Flood fill**: 
-    - [fissura perigosa](Estudos_para_OBI\PrimeiraFase\obi_2020\fissura.py)
+    - [fissura perigosa](Estudos_para_OBI/PrimeiraFase/obi_2020/fissura.py)
 
 - **Programação dinamica**
     - [Fibonacci](Aleátorios/Fibonacci.py)
@@ -41,15 +43,26 @@ Este repositório contém uma seleção de questões de programação utilizadas
     - [Lista palíndroma](Estudos_para_OBI/SegundaFase/obi_2021/lista_palindrola.py)
 
 - **Básicos**
+    - **listas**
+        - [Casamento de inteiros](TerceiraFase/obi_2021/casamentodeinteiros.py)
+
+        - [Lista palíndrola](SegundaFase/obi_2021/lista_palindrola.py)
+
+        - [Código de Compressão](SegundaFase/obi_2023_A/compressao.py)
+
     - **matrizes**
         - [Gomoku](TerceiraFase/obi_2017/gomoku.py)
 
         - [Quadrado mágico](PrimeiraFase/quadradoMagico_2022.py)
 
+        - [Pirâmide](SegundaFase/obi_2022/pitamide.py)
+
     - **Condicionais**
         - [zip](TerceiraFase/obi_2017/zip.py)
 
         - [batalha](TerceiraFase/obi_2018/batalha.py)
+
+        - [Cartas](SegundaFase/obi_2017/cartas.py)
 
 
 ### Questões por Nível
