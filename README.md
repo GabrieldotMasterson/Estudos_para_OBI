@@ -20,13 +20,14 @@ Este repositório contém uma seleção de questões de programação utilizadas
 
 - **Grafos**: 
     - **DSF (busca em profundidade)**:
-
+        - [Metrônibus](TerceiraFase/obi_2023/metroonibusgabarito.py)
 
         - [visita entre cidades](TerceiraFase/obi_2017/visita_entre_cidades.py)
 
         - [Familias de troia](SegundaFase/obi_2013/familias_de_troia.py)
 
     - **BSF (busca em largura)**: 
+        - [Metrônibus](TerceiraFase/obi_2023/metroonibusgabarito.py)
 
 - **Flood fill**: 
     - [fissura perigosa](Estudos_para_OBI\PrimeiraFase\obi_2020\fissura.py)
