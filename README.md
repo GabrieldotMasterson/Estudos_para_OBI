@@ -116,10 +116,13 @@ Este repositório contém uma seleção de questões de programação utilizadas
       - [Zip](TerceiraFase/obi_2017/zip.py)
 
     - **OBI 2018**:
+      - [Batalha](TerceiraFase/obi_2018/batalha.py)
+      - [Troca](TerceiraFase/obi_2018/troca.py)
+
     - **OBI 2023**:
-      - [Cabo de Guerra](TerceiraFase\obi_2023\cabo_de_guerra.py)
-      - [Dominó Nlogônico](TerceiraFase\obi_2023\DominoNlogonicoTentativa2.py)
-      - [Metrônibus](TerceiraFase\obi_2023\metroonibusgabarito.py)
+      - [Cabo de Guerra](TerceiraFase/obi_2023/cabo_de_guerra.py)
+      - [Dominó Nlogônico](TerceiraFase/obi_2023/DominoNlogonicoTentativa2.py)
+      - [Metrônibus](TerceiraFase/obi_2023/metroonibusgabarito.py)
 
     
 
