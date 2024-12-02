@@ -8,14 +8,14 @@ int main(){
 
     cin >> n;
 
-    for (int i = 1; i < n; ++i){
+    for (int i = 1; i < n+1; ++i){
         cin >> novo_valor;
         montante += novo_valor;
         if (montante >= 1000000) {
-            if ( i == 0 ){
+            if ( i == 1 ){
                 result = 1;
             }else{
-            result = i;
+            result = i-1;
             }
 
         }
