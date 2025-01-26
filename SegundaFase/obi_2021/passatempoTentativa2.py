@@ -1,54 +1,66 @@
+
 import sys
-
-# Leitura da entrada
-lin, col = map(int, sys.stdin.readline().split())
-M = [sys.stdin.readline().split() for i in range(lin + 1)]
-
-# Separação das somas das linhas e colunas
-somas_linhas = list(map(int, [M[linha].pop() for linha in range(lin)]))
-somas_colunas = list(map(int, M.pop()))
+lin, col = map(int,sys.stdin.readline().split())
+M = [sys.stdin.readline().split() for i in range(lin+1)]
+M_colunas = [[M[linha][coluna] for linha in range(lin)] for coluna in range(col)
+]
+somas_linhas = list(map(int,[M[linha].pop() for linha in range(lin)]))
+somas_colunas = list(map(int,M.pop()))
 quantas_vars = len({var for linha in M for var in linha})
 conhecidos = {}
 
-# Função para encontrar variáveis que aparecem sozinhas em uma linha ou coluna
 def achar_repetido():
-    # Verifica linhas
-    for i in range(lin):
+    for i in range(lin-1):
         if len(set(M[i])) == 1:
-            conhecidos[M[i][0]] = somas_linhas[i]
-            return
-    
-    # Verifica colunas
-    for y in range(col):
-        coluna = [M[linha][y] for linha in range(lin)]
+            conhecidos[M[i][0]] = somas_linhas[i]//lin
+            break
+        
+    for y in range(lin):
+        coluna = [M[linha][y] for linha in range(lin) ]
         if len(set(coluna)) == 1:
-            conhecidos[coluna[0]] = somas_colunas[y]
-            return
+            #print(somas_colunas[y], col-1, abs(somas_colunas[y]//(lin-1)))
+            conhecidos[M[0][y]] = abs(somas_colunas[y]//(lin))
+            break
 
-# Função para resolver o passatempo
 def pense():
-    while len(conhecidos) < quantas_vars:
-        # Resolvi linhas
-        for index_lin, linha in enumerate(M):
-            if any(var in conhecidos for var in linha):
-                soma_restante = somas_linhas[index_lin] - sum(conhecidos.get(var, 0) for var in linha)
-                novas_vars = [var for var in linha if var not in conhecidos]
-                if len(novas_vars) == 1:
-                    conhecidos[novas_vars[0]] = soma_restante
-
-        # Resolvi colunas
-        for index_col in range(col):
-            coluna = [M[linha][index_col] for linha in range(lin)]
-            if any(var in conhecidos for var in coluna):
-                soma_restante = somas_colunas[index_col] - sum(conhecidos.get(var, 0) for var in coluna)
-                novas_vars = [var for var in coluna if var not in conhecidos]
-                if len(novas_vars) == 1:
-                    conhecidos[novas_vars[0]] = soma_restante
-
-# Processo de solução
+    for index_lin, linha in enumerate(M):
+        incognitas = quantas_vars
+        for i in conhecidos:
+            if i in linha:
+                incognitas -= 1
+        if incognitas < quantas_vars:
+            linha_sem_incognita = somas_linhas[index_lin]
+            for i in list(conhecidos):
+                if i in linha:
+                    linha_sem_incognita -=conhecidos[i]
+                    linha.remove(i)
+                else:continue
+            if len(set(linha)) == 1:
+                total_elementos_linha = lin-(quantas_vars-incognitas)
+                conhecidos[M[index_lin][0]] = linha_sem_incognita//total_elementos_linha
+    for index_col, coluna in enumerate(M_colunas):
+        incognitas = 0
+        for i in conhecidos:
+            if i in coluna:
+                incognitas -= 1
+        if incognitas < quantas_vars:
+            coluna_sem_incognita = somas_colunas[index_col]
+            for i in list(conhecidos):
+                if i in coluna:
+                    coluna.remove(i)
+                    coluna_sem_incognita -=conhecidos[i]
+                else:continue
+            if len(set(coluna)) == 1:
+                total_elementos_coluna = col+incognitas
+                conhecidos[M[index_col][0]] = coluna_sem_incognita//total_elementos_coluna
+                    
+        if len(conhecidos) >= quantas_vars:
+            break
+        pense()
+     
 achar_repetido()
 pense()
 
-# Impressão das variáveis conhecidas
-for var, valor in conhecidos.items():
-    print(f'{var}: {valor}')
+print(conhecidos)
+    
+
