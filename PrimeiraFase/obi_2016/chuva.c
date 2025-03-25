@@ -12,10 +12,20 @@ int main() {
         scanf("%d", &piscina[i]);
     }
 
-    int result;
-    int borda;
+    int result = 0;
+    int menor;
+    if (piscina[0] > piscina[qtd-1]){
+        menor = piscina[qtd-1];
+    }else{
+        menor = piscina[0];
+    }
     for (int i = 0 ; i < qtd; i++)
     {
-
+        if (piscina[i] < menor){
+            result+=1;
+        }
     }
+
+    printf("%d", result);
+    free(piscina);
 }

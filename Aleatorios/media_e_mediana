@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    long long A, B;
+    cin >> A >> B;
+
+    // Caso 1: C <= A
+    long long C1 = 2 * A - B;
+
+    cout << C1 << endl;
+
+    return 0;
+}
