@@ -1,205 +1,189 @@
-# Estudos_para_OBI
- Lista de questões resolvidas (ou não) durante o estudo para a prova da olimpiada brasileira de informatica
+# 🧠 Estudos para OBI
 
-## Índice
+Repositório com exercícios resolvidos da OBI, organizados por fase, ano e problema.
 
-1. [Introdução](#introdução)
-2. [Questões](#questões)
-   - [Questões por Categoria](#questões-por-categoria)
-   - [Questões por Nível](#questões-por-nível)
-4. [Links Úteis](#links-úteis)
+## 🧩 PrimeiraFase
 
-## Introdução
+### 📅 Ano: `2006`
 
-Este repositório contém uma seleção de questões de programação utilizadas em competições. O objetivo é auxiliar estudantes e entusiastas na prática e no aprendizado.
+- [`ColheitadeCaju`](PrimeiraFase/obi_2006/ColheitadeCaju.py)
 
-## Questões
+### 📅 Ano: `2007`
 
-### Questões por Categoria
+- [`chocolate`](PrimeiraFase/obi_2007/chocolate.cpp)
 
+### 📅 Ano: `2008`
 
-- **Grafos**: 
-    - **DSF (busca em profundidade)**:
-        - [Metrônibus](TerceiraFase/obi_2023/metroonibusgabarito.py)
+- [`vestibular`](PrimeiraFase/obi_2008/vestibular.cpp)
 
-        - [visita entre cidades](TerceiraFase/obi_2017/visita_entre_cidades.py)
+### 📅 Ano: `2010`
 
-        - [Familias de troia](SegundaFase/obi_2013/familias_de_troia.py)
+- [`copaDoMundo_2010`](PrimeiraFase/obi_2010/copaDoMundo_2010.py)
+- [`garcom`](PrimeiraFase/obi_2010/garcom.cpp)
+- [`times`](PrimeiraFase/obi_2010/times.cpp)
 
-    - **BSF (busca em largura)**: 
-        - [Metrônibus](TerceiraFase/obi_2023/metroonibusgabarito.py)
+### 📅 Ano: `2011`
 
-        - [Câmeras](SegundaFase/obi_2022/cameras.py)
+- [`campo_minado`](PrimeiraFase/obi_2011/campo_minado.cpp)
+- [`marnestaparapeixe`](PrimeiraFase/obi_2011/marnestaparapeixe.cpp)
+- [`pulodosapo`](PrimeiraFase/obi_2011/pulodosapo.cpp)
 
-- **Árvores**:
-    - **Union find**:
-        - [Carro elétrico](TerceiraFase/obi_2022/carroeletrico.py)
+### 📅 Ano: `2012`
 
+- [`Consecutivos`](PrimeiraFase/obi_2012/Consecutivos.cpp)
 
-- **Flood fill**: 
-    - [fissura perigosa](Estudos_para_OBI/PrimeiraFase/obi_2020/fissura.py)
+### 📅 Ano: `2014`
 
-- **Programação dinamica**
-    - [Fibonacci](Aleátorios/Fibonacci.py)
+- [`fliper`](PrimeiraFase/obi_2014/fliper.py)
 
-- **Two pointers**
-    - [Intervalo Distinto](Estudos_para_OBI/SegundaFase/obi_2023_A/intervaloDistinto.py)
+### 📅 Ano: `2015`
 
-    - [Lista palíndroma](Estudos_para_OBI/SegundaFase/obi_2021/lista_palindrola.py)
+- [`familiaReal`](PrimeiraFase/obi_2015/familiaReal.py)
+- [`fitacolorida`](PrimeiraFase/obi_2015/fitacolorida.cpp)
+- [`premiodomilhao`](PrimeiraFase/obi_2015/premiodomilhao.cpp)
 
-- **Básicos**
-    - **listas**
-        - [Casamento de inteiros](TerceiraFase/obi_2021/casamentodeinteiros.py)
+### 📅 Ano: `2017`
 
-        - [Lista palíndrola](SegundaFase/obi_2021/lista_palindrola.py)
+- [`bolastrocadas`](PrimeiraFase/obi_2017/bolastrocadas.cpp)
 
-        - [Código de Compressão](SegundaFase/obi_2023_A/compressao.py)
+### 📅 Ano: `2018`
 
-    - **matrizes**
-        - [Gomoku](TerceiraFase/obi_2017/gomoku.py)
+- [`albumdacopa`](PrimeiraFase/obi_2018/albumdacopa.cpp)
+- [`xadrez`](PrimeiraFase/obi_2018/xadrez.cpp)
 
-        - [Quadrado mágico](PrimeiraFase/quadradoMagico_2022.py)
+### 📅 Ano: `2019`
 
-        - [Pirâmide](SegundaFase/obi_2022/pitamide.py)
+- [`distanciaEntreAmigos`](PrimeiraFase/obi_2019/distanciaEntreAmigos.py)
+- [`idadeMonica`](PrimeiraFase/obi_2019/idadeMonica.py)
+- [`idade_monica`](PrimeiraFase/obi_2019/idade_monica.cpp)
 
-    - **Condicionais**
-        - [zip](TerceiraFase/obi_2017/zip.py)
+### 📅 Ano: `2020`
 
-        - [batalha](TerceiraFase/obi_2018/batalha.py)
+- [`Bingo!`](PrimeiraFase/obi_2020/Bingo!.py)
+- [`Entrega_de_Caixas`](PrimeiraFase/obi_2020/Entrega_de_Caixas.cpp)
+- [`aceleradorDeParticulas`](PrimeiraFase/obi_2020/aceleradorDeParticulas.py)
+- [`fissura`](PrimeiraFase/obi_2020/fissura.py)
 
-        - [Cartas](SegundaFase/obi_2017/cartas.py)
+### 📅 Ano: `2021`
 
+- [`zeroparacancelar`](PrimeiraFase/obi_2021/zeroparacancelar.cpp)
 
-### Questões por Nível
+### 📅 Ano: `2022`
 
-- **Nível 1**:
-  - **Fase 1**:
-    - **OBI 2006**:
-      - [Colheita de Caju](PrimeiraFase/obi_2006/ColheitadeCaju.py)
+- [`cinema`](PrimeiraFase/obi_2022/cinema.py)
+- [`hotel`](PrimeiraFase/obi_2022/hotel.py)
+- [`show`](PrimeiraFase/obi_2022/show.py)
 
-    - **OBI 2019**:
-      - [Distância entre Amigos](PrimeiraFase/obi_2019/distanciaEntreAmigos.py)
-      - [Idade Monica](PrimeiraFase/obi_2019/idadeMonica.py)
-      
-    - **OBI 2020**:
-      - [Acelerador de Partículas](PrimeiraFase/obi_2020/aceleradorDeParticulas.py)
-      - [Bingo](PrimeiraFase/obi_2020/Bingo!.py)
-      - [Fissura](PrimeiraFase/obi_2020/fissura.py)
+### 📅 Ano: `Diversos`
 
-    - **OBI 2022**:
-      - [Cinema](PrimeiraFase/obi_2022/cinema.py)
-      - [Hotel](PrimeiraFase/obi_2022/hotel.py)
-      - [Show](PrimeiraFase/obi_2022/show.py)
+- [`campeonato_2012`](PrimeiraFase/campeonato_2012.py)
+- [`divisaoDoTesouro`](PrimeiraFase/divisaoDoTesouro.py)
+- [`elevador`](PrimeiraFase/elevador.py)
+- [`epidemia`](PrimeiraFase/epidemia.py)
+- [`obi`](PrimeiraFase/obi.py)
+- [`quadradoMagico_2022`](PrimeiraFase/quadradoMagico_2022.py)
+- [`supermercado`](PrimeiraFase/supermercado.py)
+- [`torneioDeTenis`](PrimeiraFase/torneioDeTenis.py)
+- [`vestibular`](PrimeiraFase/vestibular.py)
 
-  - **Fase 2**:
-    - **OBI 2009**:
-      - [Olimpíadas](SegundaFase/obi_2009/olimpiadas.py)
+## 🧩 SegundaFase
 
-    - **OBI 2013**:
-      - [Famílias de Tróia](SegundaFase/obi_2013/familias_de_troia.py)
-      - [Troco](SegundaFase/obi_2013/Troco.py)
+### 📅 Ano: `2007`
 
-    - **OBI 2016**:
-      - [Medalhas](SegundaFase/obi_2016/medalhas.py)
+- [`PaoMetro`](SegundaFase/obi_2007/PaoMetro.py)
+- [`telemarketing`](SegundaFase/obi_2007/telemarketing.cpp)
 
-    - **OBI 2017**:
-      - [Cartas](SegundaFase/obi_2017/cartas.py)
+### 📅 Ano: `2009`
 
-    - **OBI 2021 A**:
-      - [Dupla de Tênis](SegundaFase/obi_2021/duplaDeTenis.py)
-      - [Lista Palindrômica](SegundaFase/obi_2021/lista_palindrola.py)
-      - [Passatempo](SegundaFase/obi_2021/passatempo.py)
-      - [Retângulo](SegundaFase/obi_2021/Retangulo.py)
+- [`olimpiadas`](SegundaFase/obi_2009/olimpiadas.py)
 
-    - **OBI 2021 B**:
-      - [Cálculo Rápido](SegundaFase/obi_2021_B/Calculo_rapido.py)
+### 📅 Ano: `2012`
 
-    - **OBI 2022**:
-      - [Câmeras](SegundaFase/obi_2022/cameras.py)
-      - [Pirâmide](SegundaFase/obi_2022/piramide.py)
-      - [Tanque de Combustível](SegundaFase/obi_2022/Tanque_de_combustivel.py)
+- [`Costa`](SegundaFase/obi_2012/Costa.cpp)
 
-    - **OBI 2023 A**:
-      - [Grupos de Trabalho](SegundaFase/obi_2023_A/GruposDeTrabalho.py)
-      - [Intervalo Distinto](SegundaFase/obi_2023_A/intervaloDistinto.py)
-      - [Prefixo](SegundaFase/obi_2023_A/prefixo.py)
+### 📅 Ano: `2013`
 
-    - **OBI 2023 B**:
-      - [Brincadeira de Roda](SegundaFase/obi_2023_B/BrincadeiradeRoda.py)
+- [`Troco`](SegundaFase/obi_2013/Troco.py)
+- [`familias_de_troia`](SegundaFase/obi_2013/familias_de_troia.py)
 
-  - **Fase 3**:
-    - **OBI 2017**:
-      - [Bits](TerceiraFase/obi_2017/bits.py)
-      - [Gomoku](TerceiraFase/obi_2017/gomoku.py)
-      - [Visita entre Cidades](TerceiraFase/obi_2017/visita_entre_cidades.py)
-      - [Zip](TerceiraFase/obi_2017/zip.py)
+### 📅 Ano: `2014`
 
-    - **OBI 2018**:
-      - [Batalha](TerceiraFase/obi_2018/batalha.py)
-      - [Troca](TerceiraFase/obi_2018/troca.py)
+- [`Loteria`](SegundaFase/obi_2014/Loteria.cpp)
 
-    - **OBI 2022**:
-      - [Restaurante de pizza](TerceiraFase/obi_2022/restaurante.py)
-      - [Carro elétrico](TerceiraFase/obi_2022/carroeletrico.py)
+### 📅 Ano: `2016`
 
-    - **OBI 2023**:
-      - [Cabo de Guerra](TerceiraFase/obi_2023/cabo_de_guerra.py)
-      - [Dominó Nlogônico](TerceiraFase/obi_2023/DominoNlogonicoTentativa2.py)
-      - [Metrônibus](TerceiraFase/obi_2023/metroonibusgabarito.py)
+- [`medalhas`](SegundaFase/obi_2016/medalhas.py)
 
+### 📅 Ano: `2017`
 
+- [`Jogo`](SegundaFase/obi_2017/Jogo.cpp)
+- [`JogodeTabuleiro`](SegundaFase/obi_2017/JogodeTabuleiro.cpp)
+- [`cartas`](SegundaFase/obi_2017/cartas.py)
 
-    
+### 📅 Ano: `2021`
 
+- [`Retangulo`](SegundaFase/obi_2021/Retangulo.py)
+- [`a`](SegundaFase/obi_2021/a.py)
+- [`duplaDeTenis`](SegundaFase/obi_2021/duplaDeTenis.py)
+- [`lista_palindrola`](SegundaFase/obi_2021/lista_palindrola.py)
+- [`passatempo`](SegundaFase/obi_2021/passatempo.py)
+- [`passatempoTentativa2`](SegundaFase/obi_2021/passatempoTentativa2.py)
 
-- ***Nível 2***:
+### 📅 Ano: `2021_B`
 
-- ***Nível 3***:
+- [`Calculo_rapido`](SegundaFase/obi_2021_B/Calculo_rapido.py)
 
-#### Neps aleatórios
-- [analise se texto](Aleátorios/analiseDeTexto.py)
+### 📅 Ano: `2022`
 
-- [canadense Eh](Aleátorios/canadenseEh.py)
+- [`Tanquedecombustivel`](SegundaFase/obi_2022/Tanquedecombustivel.py)
+- [`cameras`](SegundaFase/obi_2022/cameras.py)
+- [`pitamide`](SegundaFase/obi_2022/pitamide.py)
 
-- [como fica o nome](Aleátorios/comoFicaONome.py)
+### 📅 Ano: `2023_A`
 
-- [Huaauhahhuahau](Aleátorios/Huaauhahhuahau.py)
+- [`GruposDeTrabalho`](SegundaFase/obi_2023_A/GruposDeTrabalho.py)
+- [`compressao`](SegundaFase/obi_2023_A/compressao.py)
+- [`intervaloDistinto`](SegundaFase/obi_2023_A/intervaloDistinto.py)
+- [`prefixo`](SegundaFase/obi_2023_A/prefixo.py)
 
-- [OlaCodCad!](Aleátorios/OlaCodCad!.py)
+### 📅 Ano: `2023_B`
 
-- [pontuacao por atividade](Aleátorios/pontuacaoPorAtividade.py)
+- [`BrincadeiradeRoda`](SegundaFase/obi_2023_B/BrincadeiradeRoda.py)
 
-- [senha2018](Aleátorios/senha2018.py)
+## 🧩 TerceiraFase
 
-- [todos os divisores](Aleátorios/todosOsDivisores.py)
+### 📅 Ano: `2017`
 
-- [Fibonacci](Aleátorios/Fibonacci.py)
+- [`bits`](TerceiraFase/obi_2017/bits.py)
+- [`gomoku`](TerceiraFase/obi_2017/gomoku.py)
+- [`visita_entre_cidades`](TerceiraFase/obi_2017/visita_entre_cidades.py)
+- [`zip`](TerceiraFase/obi_2017/zip.py)
 
+### 📅 Ano: `2018`
 
-### Lista de estudos (indicado pelo site do noic)
-- [x] [Complexidade](http://noic.com.br/informatica/curso-noic-de-informatica/aula-especial-complexidade/)
-- [x] [Busca binária](http://noic.com.br/informatica/curso-noic-de-informatica/techniques-01/)
-- [x] [Algoritmo Guloso](http://noic.com.br/informatica/curso-noic-de-informatica/techniques-02//)
-- [] [Soma de Prefixo](https://noic.com.br/materiais-informatica/curso/techniques-03/)
-- [] [Uma Breve História de Grafos](http://noic.com.br/informatica/curso-noic-de-informatica/graphs-01/)
-- [] [Busca em Grafos](http://noic.com.br/informatica/curso-noic-de-informatica/graphs-02/)
-- [] [Two pointers](http://noic.com.br/materiais-informatica/ideias/ideia-04)
-- [] [Menor Caminho](https://noic.com.br/materiais-informatica/curso/menor-caminho/)
-- [] [Bitmask](https://noic.com.br/materiais-informatica/ideias/bitmask/)
-- [] [Introdução à Programação Dinâmica](http://noic.com.br/informatica/curso-noic-de-informatica/dp-01/)
-- [] [Problema da Mochila](https://noic.com.br/materiais-informatica/curso/dp-02/)
-- [] [Introdução a Árvores](https://wp.me/P4fiBQ-fmU)
-- [] [Dijkstra Com Vértices Auxiliares](https://noic.com.br/materiais-informatica/curso/vertices-auxiliares/)
-- [] [Binary Lifting](https://noic.com.br/materiais-informatica/curso/binary-lifting/)
-- [] [LCA (Menor Ancestral Comum)](https://noic.com.br/materiais-informatica/curso/graphs-04/)
-- [] [Soma Máxima em Intervalo](https://noic.com.br/materiais-informatica/curso/soma-max-em-intervalo/)
-- [] [Binary Indexed Tree (BIT)](https://noic.com.br/materiais-informatica/curso/binary-indexed-tree/)
-- [] [Union Find](http://noic.com.br/materiais-informatica/curso/data-structures-02/)
-- [] [MST (Árvore Geradora Mínima)](https://noic.com.br/materiais-informatica/curso/arvore-geradora-minima/)
-- [] [Congruência](https://noic.com.br/materiais-informatica/curso/math-01/)
-- [] [Teste de Primalidade](https://noic.com.br/materiais-informatica/curso/math-02/)
-- [] [Diâmetros e Centros](https://noic.com.br/materiais-informatica/ideias/ideia-03/)
-- [] [Sparse Table](https://noic.com.br/materiais-informatica/ideias/ideia-08/)
-- [] [Crivo de Erastótales](https://noic.com.br/materiais-informatica/curso/math-03/)
-- [] [Ordenação Topológica](http://noic.com.br/informatica/curso-noic-de-informatica/graphs-06/)
-- [] [Maior Subsequencia Crescente (LIS)](https://noic.com.br/materiais-informatica/curso/lis/)
+- [`batalha`](TerceiraFase/obi_2018/batalha.py)
+- [`troca`](TerceiraFase/obi_2018/troca.py)
+
+### 📅 Ano: `2019`
+
+- [`mesaredonda`](TerceiraFase/obi_2019/mesaredonda.cpp)
+- [`parcelamentosemjuros`](TerceiraFase/obi_2019/parcelamentosemjuros.cpp)
+
+### 📅 Ano: `2021`
+
+- [`casamentodeinteiros`](TerceiraFase/obi_2021/casamentodeinteiros.py)
+
+### 📅 Ano: `2022`
+
+- [`caravana`](TerceiraFase/obi_2022/caravana.cpp)
+- [`carroeletrico`](TerceiraFase/obi_2022/carroeletrico.py)
+- [`restaurante`](TerceiraFase/obi_2022/restaurante.py)
+
+### 📅 Ano: `2023`
+
+- [`DominoNlogonico`](TerceiraFase/obi_2023/DominoNlogonico.py)
+- [`DominoNlogonicoTentativa2`](TerceiraFase/obi_2023/DominoNlogonicoTentativa2.py)
+- [`cabo_de_guerra`](TerceiraFase/obi_2023/cabo_de_guerra.py)
+- [`metroonibus`](TerceiraFase/obi_2023/metroonibus.py)
+- [`metroonibusgabarito`](TerceiraFase/obi_2023/metroonibusgabarito.py)
+
